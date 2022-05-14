@@ -130,3 +130,9 @@ li i:hover {
     color: #d813d2;
 }
 
+/*sets nav bar horizontally*/
+.footer-nav > li{
+    display: inline;
+    float:left;  
+ }
+

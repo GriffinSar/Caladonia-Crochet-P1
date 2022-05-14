@@ -16,7 +16,7 @@ h1, h2 {
     font-family: 'Bitter', serif;
 }
 
-/*nav-bar and logo*/
+/*nav-bar*/
 
 header{
     height:150px;
@@ -46,4 +46,24 @@ header{
     text-decoration: none;
     color:inherit;
     float: right;   
+}
+
+.head-list a:hover {
+    font-size: 20px;
+    color: #d813d2;
+}
+
+.active {
+    border-bottom: 1px solid black;
+}
+
+/*logo*/
+img {
+    max-width:100%;
+    max-height: 100%;     
+}
+
+.logo {
+    height: 150px;
+    width: 300px;    
 }

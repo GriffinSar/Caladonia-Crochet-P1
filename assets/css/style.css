@@ -117,10 +117,16 @@ footer{
     margin:20px;
 }
 
-/* sets style -how list looks*/
+/* appearance of list items*/
 .social-networks i {
     font-size: 160%;
     margin: 1%;
     padding: 3% 5%;
     color: #3a3a3a;
 }
+
+/*sets pink when hover*/
+li i:hover {
+    color: #d813d2;
+}
+

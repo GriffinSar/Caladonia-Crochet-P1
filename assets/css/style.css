@@ -79,3 +79,12 @@ img {
 .learn {
     text-align: center;
 }
+
+.about-me, .about-class{
+    text-align: center;
+    font-weight: 250;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    text-decoration: underline;
+ }

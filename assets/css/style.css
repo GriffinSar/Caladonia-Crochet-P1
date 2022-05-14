@@ -136,3 +136,9 @@ li i:hover {
     float:left;  
  }
 
+ .footer-nav a {
+    font-size: 120%;
+    text-decoration: none;
+     
+}
+

@@ -41,3 +41,9 @@ header{
     width:150px;
     height: 10px;
 }
+
+.head-list a {
+    text-decoration: none;
+    color:inherit;
+    float: right;   
+}

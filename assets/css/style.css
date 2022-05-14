@@ -104,16 +104,14 @@ img {
 /*footer*/
 footer{
     display:flex;
-   
     height: 150px;
     width: 100%;
     justify-content:center;
     align-items:center;
 }
 
+/* sets the list horizontally*/
 .social-networks > li {
     display: inline;
     float:left;
-    margin:20px;
-        
-}
+    margin:20px;}

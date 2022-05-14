@@ -23,7 +23,7 @@ header{
     width:100%;
 }
 
-.list{
+.head-list{
     font-size: 120%;
     letter-spacing: 5px; 
     max-width:100%;
@@ -33,4 +33,11 @@ header{
     right:50px;  
     font-family: 'Bitter', serif;
     font-weight: bolder;
+}
+
+.head-list li {
+    float:right;
+    list-style-type: none;
+    width:150px;
+    height: 10px;
 }

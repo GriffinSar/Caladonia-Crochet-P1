@@ -139,6 +139,9 @@ li i:hover {
  .footer-nav a {
     font-size: 120%;
     text-decoration: none;
-     
+    position: relative;
+    left:158px;
+    padding:30px;
+    letter-spacing: 5px;  
 }
 

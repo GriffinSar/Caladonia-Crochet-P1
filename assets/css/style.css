@@ -114,4 +114,13 @@ footer{
 .social-networks > li {
     display: inline;
     float:left;
-    margin:20px;}
+    margin:20px;
+}
+
+/* sets style -how list looks*/
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 3% 5%;
+    color: #3a3a3a;
+}

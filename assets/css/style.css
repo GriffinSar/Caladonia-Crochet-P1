@@ -73,11 +73,15 @@ img {
     height: 400px;
     width: 100%;
     background:url('../images/main\ image.webp') no-repeat center center;
-    background-color: rgb(80, 16, 80, 0.30); }
+    background-color: rgb(80, 16, 80, 0.30);
+    filter: drop-shadow(0 2px 4px #000);
+ }
+    
 
 /*about section of main page*/
 .learn {
     text-align: center;
+    padding-top:20px;
 }
 
 .about-me, .about-class{
@@ -99,6 +103,7 @@ img {
         width: 100%;
         background:url('../images/mandala.jpg') no-repeat center center;
         background-color: rgb(80, 16, 80, 0.30); 
+        filter: drop-shadow(0 2px 4px #000);
     }
 
 /*footer*/

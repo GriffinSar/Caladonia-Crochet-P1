@@ -217,10 +217,11 @@ li a:hover {
 .form-section
 {
     height:800px;
-    margin-top: 0;
-    background-size: cover;
-    background-position: center;
-    }
+    width:50%;
+    background-color: #d813d2;
+    position: relative;
+    left:400px;
+ }
 
 
 .text-input{

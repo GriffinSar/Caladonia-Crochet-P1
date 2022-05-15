@@ -167,4 +167,8 @@ li a:hover {
     background-color: rgba(0, 0, 0, .4);
     float: left;
     text-align: center;
+    color: #fafafa;
+    box-sizing: border-box;
+    border: 2px solid #fafafa;
+    padding: 30px 0 0 10px;
     }

@@ -203,13 +203,15 @@ li a:hover {
 .ma-head {
     text-align: center;
     padding-top: 30px;
-    padding-bottom:20px;
+    padding-bottom:30px;
     margin-right: 20%;
     margin-left:20%;
 }
 
 .woman-image {
     background-image: url(/assets/images/woman\ crochet.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .form-section

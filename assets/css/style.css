@@ -200,9 +200,10 @@ li a:hover {
     }
     
 /*Form*/
-#woman {
-    max-width:50%;
-    height:600px;
-    float: left;
-    margin: none;
+.ma-head {
+    text-align: center;
+    padding-top: 30px;
+    margin-right: 20%;
+    margin-left:20%;
 }
+

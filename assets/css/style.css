@@ -158,6 +158,9 @@ li a:hover {
     text-align: center;
     padding-bottom: 20px;
     background-color: rgb(80, 16, 80, 0.30);
+    box-sizing: border-box;
+    border: 2px solid #fafafa;
+    width:99%;
     }
 
 /*times section style*/

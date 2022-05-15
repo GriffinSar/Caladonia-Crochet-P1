@@ -217,6 +217,14 @@ li a:hover {
 .form-section
 {
     height:800px;
+    margin-top: 0;
+    background-size: cover;
+    background-position: center;
+    }
+
+
+.text-input{
+
 }
 
 

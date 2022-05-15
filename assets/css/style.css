@@ -194,3 +194,8 @@ li a:hover {
         column-gap: 0px;
         background-color: rgb(80, 16, 80, 0.30);
     }
+
+    #photos > img {
+        width: 100%;    
+    }
+    

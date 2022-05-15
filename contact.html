@@ -44,7 +44,35 @@
     <div id="form-section">
     <form>
     <h3 class="shead">Contact Us Today</h3>
+    <label for="fname">First Name</label>
+        <input id="fname" name="first_name" type="text" required class="text-input">
+        
+        <label for="lname">Last Name</label>
+        <input id="lname" name="last_name" type="text" required class="text-input">
+        
+        <label for="email">Email Address</label>
+        <input type="email" id="email" name="email_address" required class="text-input">
 
+        <label for="number">Contact Number</label>
+        <input id="number" name="contact_number" type="number" required class="text-input">
+
+        <label for="beginner">Beginner</label>
+        <input type="checkbox" id="beginner" name="class_prefernce" value="class">
+        <label for="intermediate">Intermediate</label>
+        <input type="checkbox" id="intermediate" name="class_prefernce" value="class" >
+        <label for="advanced">Advanced</label>
+        <input type="checkbox" id="advanced" name="class_prefernce" value="class" >
+<br>
+<br>
+        <fieldset>
+            <legend>Additional Info</legend>
+        <label for="ainfo"></label>
+        <textarea id= "ainfo" name="ainfo" rows="5" cols="50">
+Please enter any enquiries or anything extra that may assist us to accomodate your booking. 
+            </textarea>
+        </fieldset>
+       
+        <input class="join-button" type="submit" value="Submit">
     </form>
     </div>
 

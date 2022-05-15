@@ -150,3 +150,12 @@ li a:hover {
     color: #d813d2;
 }
 
+/*classes page styling*/
+
+.schedule {
+    color:black;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: rgb(80, 16, 80, 0.30);
+    }
+

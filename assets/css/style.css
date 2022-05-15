@@ -185,3 +185,12 @@ li a:hover {
         width: 100%;
         overflow: hidden;
     }
+
+    /*Gallery*/
+    #photos {
+        clear: both;
+        line-height: 0;
+        column-count: 4;
+        column-gap: 0px;
+        background-color: rgb(80, 16, 80, 0.30);
+    }

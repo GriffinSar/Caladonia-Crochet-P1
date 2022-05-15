@@ -164,7 +164,7 @@ li a:hover {
     }
 
 /*times section style*/
-.times div {
+.times div, .more-info div {
     width:33%;
     height: 300px;
     background-color: rgba(0, 0, 0, .4);
@@ -175,3 +175,4 @@ li a:hover {
     border: 2px solid #fafafa;
     padding: 30px 0 0 10px;
     }
+

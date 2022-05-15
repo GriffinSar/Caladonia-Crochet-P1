@@ -198,6 +198,7 @@ li a:hover {
         column-count: 4;
         column-gap: 0px;
         background-color: rgb(80, 16, 80, 0.30);
+        filter: drop-shadow(2px 4px 6px #000);
     }
 
     #photos > img {

@@ -288,12 +288,10 @@ textarea {
     header{
         height:150px;
         width:100%;
-        background-color: #d813d2;
     }
     .head-list{
         max-width:25%;
     }
-
     .head-li{
         padding-top:10px;
         position:relative;
@@ -304,9 +302,48 @@ textarea {
     max-width:25%;}
 }
     
+/*for screens max-width 320px*/
 
+@media screen and (max-width: 320px) {
+    header{
+        height:150px;
+        width:100%;
+        background-color: aqua;
+    }
 
+    .logo{
+    height: 80px;
+    width: 150px;
+}
+
+footer{
+    height:50px;
     
+}
+.social-networks > li {
+        margin:0;
+        font-size: 80%;
+        float:left;
+        clear:left;
+        background-color: yellowgreen;
+        position: relative;
+        top:40px;
+        left:-40px;
+    }
+    .fnav a{
+        padding-left:10px;
+        position:relative;
+        top:30px;
+        left:-20px;       
+} 
+.footer-nav > li {
+   font-size: 80%;
+}
+}
+
+
+
+
 
 
 

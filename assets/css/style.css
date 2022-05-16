@@ -280,5 +280,34 @@ textarea {
     color:black;
 }
 
+/*Media Queries*/
+
+/*for screens max-width 890px -medium*/
+
+@media screen and (max-width: 890px) {
+    header{
+        height:150px;
+        width:100%;
+        background-color: #d813d2;
+    }
+    .head-list{
+        max-width:25%;
+    }
+
+    .head-li{
+        padding-top:10px;
+        position:relative;
+        top:-50px;
+    }
+ /*footer*/
+    .footer-nav{
+    max-width:25%;}
+}
+    
+
+
+    
+
+
 
 

@@ -12,10 +12,11 @@ In this section, you should go over the different parts of your project, and des
 
 ### Existing Features
 
-- __Navigation Bar__
+- __Navigation Bar And Logo__
 
   - Featured on all four pages, the full responsive navigation bar includes links to the, Home page, Gallery page, Classes page and Contact page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - Logo is featured on all four pages, it is the brand of the crochet teacher and is used so that the user can recognise this teachers work across social media platforms and pattern websites. The logo creates brand recognition.
 
 ![Nav Bar](../Caladonia-Crochet-P1/assets/images/nav-bar.png)
 
@@ -38,7 +39,7 @@ In this section, you should go over the different parts of your project, and des
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
   - This section will be updated as these times change to keep the user up to date. 
 
-![Second Image]()
+![Second Image](../Caladonia-Crochet-P1/assets/images/second-image-main.png)
 
 -This image ties in with the aesthetics of the website, giving the user another example of the work of the crochet teacher. 
 

@@ -33,7 +33,7 @@ In this section, you should go over the different parts of your project, and des
   - The About the Class section will describe how the classes are run, what to expect and to answer any common questions users may have.
   - This section is designed to build interest for the classes and also a sense of trust and familiarity with the teacher so the user will be more inclined to reach out to join up.
 
-![Learn Crochet]()
+![Learn Crochet](../Caladonia-Crochet-P1/assets/images/about-me-class.png)
 
 - __Second Image Main Page__
 

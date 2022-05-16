@@ -64,11 +64,12 @@ In this section, you should go over the different parts of your project, and des
 ![Gallery](../Caladonia-Crochet-P1/assets/images/gallery-1.png)
 ![Gallery 2](../Caladonia-Crochet-P1/assets/images/gallery-2.png)
 
-- __The Sign Up Page__
+- __The Contact Page__
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Contact](../Caladonia-Crochet-P1/assets/images/contact-1.png)
+![Contact-2](../Caladonia-Crochet-P1/assets/images/contact-2.png)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 

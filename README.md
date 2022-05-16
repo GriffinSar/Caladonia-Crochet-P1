@@ -17,33 +17,38 @@ In this section, you should go over the different parts of your project, and des
   - Featured on all four pages, the full responsive navigation bar includes links to the, Home page, Gallery page, Classes page and Contact page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar] (https://github.com/GriffinSar/Caladonia-Crochet-P1/blob/main/assets/images/nav-bar.png)
+![Nav Bar]()
 
-- __The landing page image__
+- __Main page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The main page contains a picture of some crochet, it is designed to catch the users eye and give them an example of what they could create. 
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Main Image] ()
 
-- __Club Ethos Section__
+- __Learn Crochet__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The About me section will allow the user to get familiar with the crochet teacher and to learn about their experience. This should create a sense of trust between the user and the teacher which will encourage the user to sign up for classes.
+  - The About the Class section will describe how the classes are run, what to expect and to answer any common questions users may have.
+  - This section is designed to build interest for the classes and also a sense of trust and familiarity with the teacher so the user will be more inclined to reach out to join up.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Learn Crochet]()
 
-- __Meetup Times section__
+- __Second Image Main Page__
 
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
   - This section will be updated as these times change to keep the user up to date. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Second Image]()
+
+-This image ties in with the aesthetics of the website, giving the user another example of the work of the crochet teacher. 
 
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer also contains links replicated from the header
+  - This is useful for the user as they do not need to scroll back to the top of the screen to go to the next page they can do this from the footer also.
+  
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 

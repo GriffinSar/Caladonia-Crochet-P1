@@ -181,6 +181,10 @@ li a:hover {
     padding: 30px 0 0 10px;
     }
 
+    .link {
+        color: #fafafa;
+    }
+
     /*background image of crochet and candle*/
     .crochet-candle {
         background-image: url('../images/crochet-candle.jpg');

@@ -1,7 +1,8 @@
 # Caladonia Crochet
 
-Caladonia Crochet is a website designed to advertise a crochet teachers’ classes. This website gives the user an overview on the crochet teacher and their experience with crochet. 
-It is designed to advertise the teachers’ skills while also giving information on the actual classes themselves. The website includes links to external sites for patterns shown on the site. 
+Caladonia Crochet is a website designed to advertise a crochet teachers’ classes. This website gives the user an overview on the crochet teacher and their experience with teaching crochet. 
+It is designed to advertise the teachers’ skills while also giving information on the actual classes themselves. The website includes links to external sites for patterns shown on the site.
+The site also includes a form page where the user can sign up to be contacted about the classes. 
 As this is a website for an artist it is designed to be aesthetically pleasing with many pictures and a cohesive style. It also gives the user the ability to sign up to be contacted about the classes.  
 
 INCLUDE IMAGE OF SITE ON DIFFERENT SCREEN SIZE

@@ -17,7 +17,7 @@ In this section, you should go over the different parts of your project, and des
   - Featured on all four pages, the full responsive navigation bar includes links to the, Home page, Gallery page, Classes page and Contact page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar]()
+![Nav Bar](../Caladonia-Crochet-P1/assets/images/nav-bar.png)
 
 - __Main page image__
 
@@ -50,7 +50,7 @@ In this section, you should go over the different parts of your project, and des
   - This is useful for the user as they do not need to scroll back to the top of the screen to go to the next page they can do this from the footer also.
   
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer]()
 
 - __Gallery__
 

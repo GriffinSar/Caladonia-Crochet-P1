@@ -23,7 +23,7 @@ In this section, you should go over the different parts of your project, and des
 
   - The main page contains a picture of some crochet, it is designed to catch the users eye and give them an example of what they could create. 
 
-![Main Image] ()
+![Main Image](../Caladonia-Crochet-P1/assets/images/image-1.png)
 
 - __Learn Crochet__
 

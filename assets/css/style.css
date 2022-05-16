@@ -308,9 +308,7 @@ textarea {
     header{
         height:150px;
         width:100%;
-        background-color: aqua;
     }
-
     .logo{
     height: 80px;
     width: 150px;
@@ -325,7 +323,6 @@ footer{
         font-size: 80%;
         float:left;
         clear:left;
-        background-color: yellowgreen;
         position: relative;
         top:40px;
         left:-40px;

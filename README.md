@@ -56,6 +56,9 @@ In this section, you should go over the different parts of your project, and des
 
 - __Classes__-
 
+![Class Schedule](../Caladonia-Crochet-P1/assets/images/classes-1.png)
+![Class Schedule 2](../Caladonia-Crochet-P1/assets/images/classes-2.png)
+
 
 - __Gallery__
 

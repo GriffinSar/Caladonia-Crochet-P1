@@ -51,14 +51,18 @@ In this section, you should go over the different parts of your project, and des
   - This is useful for the user as they do not need to scroll back to the top of the screen to go to the next page they can do this from the footer also.
   
 
-![Footer]()
+![Footer](../Caladonia-Crochet-P1/assets/images/footer-image.png)
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The gallery provides users with images of the crochet teachers work to advertise her skills
+  - This section is valuable to the user as they will be able to see the types of work created in the class and 
+  they will be able to then decide if this is a style they are interested in.
+  - This section also has links to the patterns when the images are clicked on.
+  - This is valuable for the user as even if they dont sign up to the class they can still find the links to purchase the patterns from the teacher. This is valuable for the teacher too as even if they do not sign up for the class this can still generate revenue.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery](../Caladonia-Crochet-P1/assets/images/gallery-1.png)
+![Gallery 2](../Caladonia-Crochet-P1/assets/images/gallery-2.png)
 
 - __The Sign Up Page__
 

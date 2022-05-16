@@ -5,7 +5,7 @@ It is designed to advertise the teachers’ skills while also giving information
 The site also includes a form page where the user can sign up to be contacted about the classes. 
 As this is a website for an artist it is designed to be aesthetically pleasing with many pictures and a cohesive style. It also gives the user the ability to sign up to be contacted about the classes.  
 
-INCLUDE IMAGE OF SITE ON DIFFERENT SCREEN SIZE
+![responsive](../Caladonia-Crochet-P1/assets/images/repsonsive.png)
 
 ## Features 
 

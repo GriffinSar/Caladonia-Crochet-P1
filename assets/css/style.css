@@ -182,8 +182,14 @@ li a:hover {
     }
 
     .link {
-        color: #fafafa;
+        color: #fafafa;   
     }
+    a:hover{
+       color:#d813d2;
+    }
+
+    
+
 
     /*background image of crochet and candle*/
     .crochet-candle {

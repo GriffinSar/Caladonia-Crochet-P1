@@ -331,9 +331,24 @@ textarea {
     max-width:25%;}
 }
     
+/*for screens max-width 425px*/
+@media screen and (max-width: 425px){
+
+header {
+    height:150px;
+    width:100%;
+    background-color:orange
+}
+.logo{
+height: 80px;
+width: 150px;
+background-color: aqua;
+}
+}
+
 /*for screens max-width 320px*/
 
-@media screen and (max-width: 3400px) {
+@media screen and (max-width: 320px) {
     header{
         height:150px;
         width:100%;

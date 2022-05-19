@@ -169,6 +169,11 @@ li a:hover {
     width:100%;
     }
 
+    .day {
+        text-decoration: underline;
+        text-transform: uppercase;
+    }
+
 /*times section style*/
 .times div{
     width:30%;

@@ -330,6 +330,20 @@ textarea {
     .footer-nav{
     max-width:25%;}
 }
+/*for screen max-width 768px*/
+@media screen and (max-width:768px) {
+    header {
+        height:150px;
+        width:100%
+    }
+
+    .logo {
+        height: 80px;
+        width: 150px;
+    }
+
+    
+} 
     
 /*for screens max-width 425px*/
 @media screen and (max-width: 425px){
@@ -342,7 +356,34 @@ header {
 .logo{
 height: 80px;
 width: 150px;
-background-color: aqua;
+background-color:aqua ;
+}
+
+/*Contact Page*/
+textarea {
+    max-width: 200px;
+}
+
+footer{
+    height:50px;  
+}
+.social-networks > li {
+        margin:0;
+        font-size: 80%;
+        float:left;
+        clear:left;
+        position: relative;
+        top:40px;
+        left:-40px;
+    }
+    .fnav a{
+        padding-left:10px;
+        position:relative;
+        top:30px;
+        left:-20px;       
+} 
+.footer-nav > li {
+   font-size: 80%;
 }
 }
 

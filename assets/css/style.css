@@ -171,39 +171,40 @@ li a:hover {
 
 /*times section style*/
 .times div{
-    width:50%;
-    height:100%;
+    width:30%;
+    height:150px;
     background-color: rgba(0, 0, 0, .5);   
     text-align: center;
     color: #fafafa;
-    border: 2px solid #fafafa;
+    border: 4px solid #fafafa;
+    float:left;
     position: relative;
-    bottom:-300px 
-    }
-
-    .times div:hover{
-        font-size: xx-large;
-    }
+    left:80px;  
+}
     
 
     .more-info div {
-    width:50%;
-    height:100%;
+    width:30%;
+    height:300px;
     text-align: center;
     color: #fafafa;
     background-color: rgba(0, 0, 0, .5);
-    border: 2px solid #fafafa;
+    border: 4px solid #fafafa;
+    float:left;
+position: relative;
+    left:80px;}
+    /*
     position:relative;
     bottom:200px;
     right:-55%;
     }
+    */
 
-    .more-info div:hover {
-        font-size: xx-large;
-    }
+    
 
     .link {
-        color: #fafafa;   
+        color: #fafafa;  
+    
     }
     a:hover{
        color:#d813d2;

@@ -162,23 +162,44 @@ li a:hover {
     color:black;
     text-align: center;
     padding-bottom: 20px;
-    background-color: rgb(80, 16, 80, 0.30);
-    box-sizing: border-box;
+    padding-left: 20px;
+    background-color: rgb(80, 16, 80, 0.30); 
+    box-sizing: border-box; 
     border: 2px solid #fafafa;
-    width:99%;
+    width:100%;
     }
 
 /*times section style*/
-.times div, .more-info div {
-    width:33%;
-    height: 300px;
-    background-color: rgba(0, 0, 0, .5);
-    float: left;
+.times div{
+    width:50%;
+    height:100%;
+    background-color: rgba(0, 0, 0, .5);   
     text-align: center;
     color: #fafafa;
-    box-sizing: border-box;
     border: 2px solid #fafafa;
-    padding: 30px 0 0 10px;
+    position: relative;
+    bottom:-300px 
+    }
+
+    .times div:hover{
+        font-size: xx-large;
+    }
+    
+
+    .more-info div {
+    width:50%;
+    height:100%;
+    text-align: center;
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .5);
+    border: 2px solid #fafafa;
+    position:relative;
+    bottom:200px;
+    right:-55%;
+    }
+
+    .more-info div:hover {
+        font-size: xx-large;
     }
 
     .link {
@@ -186,6 +207,7 @@ li a:hover {
     }
     a:hover{
        color:#d813d2;
+       font-size: xx-large;
     }
 
     
@@ -194,11 +216,11 @@ li a:hover {
     /*background image of crochet and candle*/
     .crochet-candle {
         background-image: url('../images/crochet-candle.jpg');
-        background-repeat: no-repeat;
-        background-size: cover;
+        background-repeat: no-repeat;      
+        background-size:cover;
         background-position: center;
-        width: 100%;
-        overflow: hidden;
+        width: 100%;    
+        overflow: hidden;     
     }
 
     /*Gallery*/

@@ -249,8 +249,9 @@ li a:hover {
     text-align: center;
     padding-top: 30px;
     padding-bottom:30px;
-    margin-right: 20%;
-    margin-left:20%;
+    margin-top: 20px;
+    background-color:rgb(80, 16, 80, 0.30);
+    width:100%;
 }
 
 .woman-image {

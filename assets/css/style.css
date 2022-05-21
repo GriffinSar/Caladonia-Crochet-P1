@@ -365,7 +365,8 @@ textarea {
 }
 
 footer{
-    height:50px;  
+    height:50px;
+    background-color: greenyellow;  
 }
 .social-networks > li {
         margin:0;
@@ -387,6 +388,7 @@ footer{
 }
 }
 
+
 /*for screens max-width 320px*/
 
 @media screen and (max-width: 320px) {
@@ -398,6 +400,8 @@ footer{
     height: 80px;
     width: 150px;
 }
+
+/*footer*/
 
 footer{
     height:50px;  

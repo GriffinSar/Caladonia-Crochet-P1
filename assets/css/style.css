@@ -253,7 +253,7 @@ li a:hover {
     padding: 20px;
     font-size: 30px;
     text-align: center;
-    COLOR: WHITE;
+    color: white;
     }
 
     /*Gallery*/
@@ -278,12 +278,10 @@ li a:hover {
     }
     
 /*Form*/
+
 .ma-head {
     text-align: center;
-    padding-top: 30px;
-    padding-bottom:30px;
-    margin-top: 20px;
-    background-color:rgb(80, 16, 80, 0.30);
+    
     width:100%;
 }
 
@@ -308,24 +306,23 @@ li a:hover {
 
 .form-section
 {
-    height:650px;
-    width:50%;
+    height: 650px;
+    width: 50%;
     padding-left: 30px;
     padding-right: 30px;
-    padding-top:100px;
-    background-color: rgb(248, 235, 242, 0.30);    
-    z-index:1; 
+    padding-top: 100px;
+    background-color: rgb(248, 235, 242, 0.30);
+    z-index: 1;
  }
-
 
 .text-input{
     background:transparent;
     color:black;
-    width:100%;
+    width: 100%;
     height: 25px;
     margin: 5px 0 20px;
-    border: 4px solid black;
-    border-radius:10px;  
+    border: 1px solid black;
+    border-radius:4px;  
 }
 
 .text-input:hover, textarea:hover {
@@ -341,8 +338,8 @@ li a:hover {
 textarea {
     background:transparent;
     color:black;
-    border: 4px solid black;
-    border-radius:10px;     
+    border: 1px solid black;
+    border-radius:4px;     
 }
 
 .submit {
@@ -370,7 +367,6 @@ textarea {
     header{
         height:150px;
         width:100%;
-        background-color: #d813d2;
     }
     .head-list{
         max-width:25%;
@@ -391,7 +387,7 @@ textarea {
         height:150px;
         width:100%
     }
-
+    
     .logo {
         height: 80px;
         width: 150px;
@@ -401,7 +397,7 @@ textarea {
 } 
     
 /*for screens max-width 425px*/
-@media screen and (max-width: 425px)
+@media screen and (max-width: 425px) {
 
 header {
     height:150px;
@@ -414,37 +410,21 @@ width: 150px;
 }
 
 /*Contact Page*/
+/*
 .form-section{
     width:100%;
 }
-/*
-textarea {
-    max-width: 200px;
-}
+*/
 
 footer{
-    height:50px;
-    background-color: greenyellow;  
+    height:50px;   
 }
-.social-networks > li {
-        margin:0;
-        font-size: 80%;
-        float:left;
-        clear:left;
-        position: relative;
-        top:40px;
-        left:-40px;
-    }
-    .fnav a{
-        padding-left:10px;
-        position:relative;
-        top:30px;
-        left:-20px;       
-} 
+        
 .footer-nav > li {
    font-size: 80%;
 }
 }
+
 /*
 
 
@@ -465,25 +445,19 @@ footer{
 footer{
     height:50px;  
 }
+
 .social-networks > li {
-        margin:0;
-        font-size: 80%;
-        float:left;
-        clear:left;
-        position: relative;
-        top:40px;
-        left:-40px;
+        padding-top:10px;
+        font-size: 80%;    
     }
-    .fnav a{
-        padding-left:10px;
-        position:relative;
-        top:30px;
-        left:-20px;       
-} 
-.footer-nav > li {
-   font-size: 80%;
+
+textarea {
+        width:100%;
+    }
+
 }
-}
+  
+
 
 
 

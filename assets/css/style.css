@@ -92,6 +92,13 @@ img {
     padding-top:20px;
 }
 
+.maintext {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
 .about-me, .about-class{
     text-align: center;
     font-weight: 250;

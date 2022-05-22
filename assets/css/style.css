@@ -222,13 +222,12 @@ li a:hover {
     }
     a:hover{
        color:#d813d2;
-       font-size: 20px;
+       font-size: 18px;
     }
 
-    
-
-
     /*background image of crochet and candle*/
+
+    /*
     .crochet-candle {
         background-image: url('../images/crochet-candle.jpg');
         background-repeat: no-repeat;      
@@ -236,6 +235,25 @@ li a:hover {
         background-position: center;
         width: 100%;    
         overflow: hidden;     
+    }
+    */
+
+    .grid-container{
+        display: grid;
+        grid-template-columns: auto auto auto;
+        background-image: url(..//images/crochet-candle.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .grid-item {
+    background-color: rgb(28 1 1 / 14%);
+    border: 1px solid white;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    COLOR: WHITE;
     }
 
     /*Gallery*/

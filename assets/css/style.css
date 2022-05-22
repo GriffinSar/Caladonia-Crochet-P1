@@ -258,10 +258,8 @@ li a:hover {
 
     /*Gallery*/
 
-    .galleryhead {
-        background-color: rgb(80, 16, 80, 0.30); 
+    .galleryhead { 
         padding-left: 20px;
-        background-color: rgb(80, 16, 80, 0.30); 
         width:100%;
     }
     #photos {

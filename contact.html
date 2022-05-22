@@ -40,7 +40,7 @@
     </div>
 
     
-    <div class="woman-image">
+    <div class="woman-image"></div>
     <form class="form-section">
     <h3 class="shead">Contact Us Today</h3>
     <label for="fname">First Name</label>
@@ -56,24 +56,25 @@
         <label for="number">Contact Number</label>
         <input id="number" name="contact_number" type="number" required class="text-input">
 
-        <label for="beginner">Beginner</label>
-        <input type="checkbox" id="beginner" name="class_prefernce" value="class">
-        <label for="intermediate">Intermediate</label>
-        <input type="checkbox" id="intermediate" name="class_prefernce" value="class" >
-        <label for="advanced">Advanced</label>
-        <input type="checkbox" id="advanced" name="class_prefernce" value="class" >
+        <label class="container">Begginer<input type="radio" checked="checked" name="radio">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Intermediate<input type="radio" name="radio">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Advanced<input type="radio" name="radio">
+            <span class="checkmark"></span>
+          </label>
 <br>
 <br>
-        <fieldset>
+      
             <legend>Additional Info</legend>
         <label for="ainfo"></label>
-        <textarea id= "ainfo" name="ainfo" rows="5" cols="50">
-Please enter any enquiries or anything extra that may assist us to accomodate your booking. 
-            </textarea>
-        </fieldset>
+        <textarea id= "ainfo" name="ainfo" rows="5" cols="50" placeholder="Please enter any enquiries or anything extra that may assist us to accomodate your booking. "></textarea>
+
     <input class="submit" type="submit" value="Submit">
     </form>
-</div>
+
 
     <footer>
         <ul class="social-networks">
@@ -113,5 +114,6 @@ Please enter any enquiries or anything extra that may assist us to accomodate yo
     <!-- font awesome script -->
     <script src="https://kit.fontawesome.com/c7dbda0798.js" crossorigin="anonymous"></script>
 </body>
+            
 
 </html>

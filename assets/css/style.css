@@ -174,14 +174,11 @@ li a:hover {
 
 /*style*/
 .schedule {
-    color:black;
     text-align: center;
-    padding-bottom: 20px;
     padding-left: 20px;
-    background-color: rgb(80, 16, 80, 0.30); 
     box-sizing: border-box; 
-    border: 2px solid #fafafa;
-    width:100%;
+    border: 1px solid black;
+    
     }
 
     .day {

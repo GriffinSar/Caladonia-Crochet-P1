@@ -384,6 +384,7 @@ textarea {
     .footer-nav{
     max-width:25%;}
 }
+
 /*for screen max-width 768px*/
 @media screen and (max-width:768px) {
     header {
@@ -400,7 +401,7 @@ textarea {
 } 
     
 /*for screens max-width 425px*/
-@media screen and (max-width: 425px){
+@media screen and (max-width: 425px)
 
 header {
     height:150px;
@@ -410,10 +411,13 @@ header {
 .logo{
 height: 80px;
 width: 150px;
-background-color:aqua ;
 }
 
 /*Contact Page*/
+.form-section{
+    width:100%;
+}
+/*
 textarea {
     max-width: 200px;
 }
@@ -441,6 +445,7 @@ footer{
    font-size: 80%;
 }
 }
+/*
 
 
 /*for screens max-width 320px*/

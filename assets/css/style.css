@@ -176,9 +176,7 @@ li a:hover {
 .schedule {
     text-align: center;
     padding-left: 20px;
-    box-sizing: border-box; 
-    border: 1px solid black;
-    
+    box-sizing: border-box;     
     }
 
     .day {

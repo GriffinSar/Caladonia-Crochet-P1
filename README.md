@@ -110,27 +110,44 @@ I have added drop shadows to the images to give a sense of depth to the page and
 
 - In the future I hope to add a sign up feature where the user can subscribe to a newsletter to be alerted when new classes or patterns are released.
 
-## Testing 
+# Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+## Manual Testing
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+![Test1](assets/images/testing/test1.png)
+![Test2](assets/images/testing/test%202.png)
+![Test3](assets/images/testing/tests%203.png)
+![Test4](assets/images/testing/test4.png)
+![Test5](assets/images/testing/test5.png)
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+## Lighthouse Testing
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+#### Home Page
+![Home](assets/images/testing/lighthouse-home.png)
+#### Classes Page
+#### Gallery Page
+#### Contact Page
+![Contact](assets/images/testing/contact-lighthouse.png)
+
+
 
 
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - One error when passed through [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+
+### Home Page
+![ValHome](assets/images/testing/home-html.png)
+Solution: renamed image to header-logo to remove spaces and replicated on each page for the site.
+
+
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - One Error Found when passed through [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
-### Unfixed Bugs
+  ![Cssval](assets/images/testing/css-val.png)
+  Solution: Added semicolon to the color in the body section.
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
 
 ## Deployment
 
@@ -144,21 +161,25 @@ This section should describe the process you went through to deploy the project 
 The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
 
 
-## Credits 
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+# Credits 
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- All text used throughout the site was written by me.
+- All the business information such as the classes was created by me.
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- Several the photos used on the site are my own. The listed images below are mine.
+  -	Crochet candle image from classes page
+  -	Crochet red from the gallery page
+  -	Crochet blue from the gallery page
+  - My crochet from the gallery page
+  - Rainbow crochet from the gallery page
+
+- Images below were from the website the guy with the hook (https://theguywiththehook.com/)
+  -	Crochet 4 images from the gallery page
+  -	Pillow from the gallery page
+  -	Van gogh images from the gallery page
 
 

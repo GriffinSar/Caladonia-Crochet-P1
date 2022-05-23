@@ -6,7 +6,7 @@ This website gives the user an overview on the site owner and their teaching exp
 As this is a website for an artist it is designed to be aesthetically pleasing with many pictures and a cohesive colour scheme. 
  
 
-![responsive](../Caladonia-Crochet-P1/assets/images/responsive.png)
+![responsive](../Caladonia-Crochet-P1/assets/images/read.me/responsive.png)
 
 ## User Stories
 ### First Time Visitor Goals
@@ -19,12 +19,29 @@ I want to be able to check if there are new classes being offered. I want to be 
 ## Colour scheme
 I have used a consistent colour scheme for this website to give a sense of cohesion and compliment the colourful images of crochet. The text is black and there is also white text used as well when black would not give a strong enough contrast. Links and navigation turn bright pink (#d813d2) when hovered over. The main body of the page is a very light pink rgb(248, 235, 242, 0.30) and it is accented with a dusky purple rgb(80, 16, 80, 0.30). The colours are muted except for a pop of bright pink on links when hovered over. This lets the colours of the imagery be the main focus of the page. 
 
-![responsive](../Caladonia-Crochet-P1/assets/images/colorscheme.png)
+![responsive](../Caladonia-Crochet-P1/assets/images/read.me/colorscheme.png)
+
+## Logo 
+
+I created the logo for the website using Adobe logo creator. I wanted something that could act as a brand for the website. This can be used on the site owners social media and any patterns they create so that their work can be easily recognised and help bring users to the website.
+
+![responsive](../Caladonia-Crochet-P1/assets/images/read.me/logo.png)
+
+## Typography
+
+I choose the font to compliment the Logo. I choose Bitter and Open-sans. I used Bitter for my headings as it is similar to the Logo font. And open-sans is a complimentary font to Bitter. I wanted a very minimal font so as not to distract from the imagery. 
+
+![responsive](../Caladonia-Crochet-P1/assets/images/read.me/typography.png)
 
 
 ## Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+
+## Imagery
+I have used several images from the crochet teacher, her style is very colourful and vibrant. The muted colours of the website help to emphasise the vibrancy of the imagery. The images will create a sense of confidence in the teachers’ skills and hopefully encourage the user to want to learn to crochet also. The images in the gallery section all link to external sites such as ravelry where the user can purchase these patterns which can generate another revenue stream for the site owner. 
+I have added drop shadows to the images to give a sense of depth to the page and this makes the imagery even more the focus of the page.
+
 
 ### Existing Features
 

@@ -1,14 +1,13 @@
 # Caladonia Crochet
 
 ### Purpose
-Caladonia Crochet is a website designed to advertise a crochet teachers’ classes and encourage people to sign up. It is also designed as a source of revenue outside of the classes as there are links to the creators’ paid patterns included on the site.
-This website gives the user an overview on the site owner and their teaching experience. It is designed to advertise their skills while also giving information on the actual classes themselves which is included on the Home page. The classes page gives the details on the time and dates of the classes. There is a gallery page displaying the teachers work. It also includes a form page where the user can sign up to be contacted about the classes. 
+Caladonia Crochet is a website designed to advertise a crochet teachers’ classes and encourage people to sign up. It is also designed as a source of revenue outside of the classes as there are links to the creators’ paid patterns included on the site.<br>
+This website gives the user an overview on the site owner and their teaching experience. It is designed to advertise their skills while also giving information on the actual classes themselves which is included on the Home page. The classes page gives the details on the time and dates of the classes. There is a gallery page displaying the teachers work. It also includes a form page where the user can sign up to be contacted about the classes. <br>
 As this is a website for an artist it is designed to be aesthetically pleasing with many pictures and a cohesive colour scheme. 
- 
 
 ![responsive](assets/images/read.me/responsive.png)
 
-## User Stories
+# User Stories
 ### First Time Visitor Goals
 As a first-time visitor I want to easily understand the purpose of the site and learn more about the crochet teacher. I want to be able to easily navigate throughout the site to find content. I want to view the website and content clearly on various devices. I want to be able to easily follow Caladonia Crochet on social media. I want to get an understanding of what is involved in the classes.
 ### Returning Visitor Goals
@@ -17,7 +16,7 @@ As a returning visitor I want to be able to contact the site owner to sign up or
 I want to be able to check if there are new classes being offered. I want to be able to check if there are new patterns advertised since the last time I visited.
 
 ## Colour scheme
-I have used a consistent colour scheme for this website to give a sense of cohesion and compliment the colourful images of crochet. The text is black and there is also white text used as well when black would not give a strong enough contrast. Links and navigation turn bright pink (#d813d2) when hovered over. The main body of the page is a very light pink rgb(248, 235, 242, 0.30) and it is accented with a dusky purple rgb(80, 16, 80, 0.30). The colours are muted except for a pop of bright pink on links when hovered over. This lets the colours of the imagery be the main focus of the page. 
+I have used a consistent colour scheme for this website to give a sense of cohesion and compliment the colourful images of crochet. The text is black and there is also white text used as well when black would not give a strong enough contrast. Links and navigation turn bright pink (#d813d2) when hovered over. The main body of the page is a very light pink rgb(248, 235, 242, 0.30) and it is accented with a dusky purple rgb(80, 16, 80, 0.30). The colours are muted except for a pop of bright pink on links when hovered over. This lets the colours of the imagery be the main focus of the page.
 
 ![responsive](assets/images/read.me/colorscheme.png)
 
@@ -42,11 +41,12 @@ I choose the font to compliment the Logo. I choose Bitter and Open-sans. I used 
 ![responsive](assets/images/read.me/wiregallery.png)
 ### Contact
 ![responsive](assets/images/read.me/wirecontact.png)
-## Features 
+
+# Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-## Imagery
+# Imagery
 I have used several images from the crochet teacher, her style is very colourful and vibrant. The muted colours of the website help to emphasise the vibrancy of the imagery. The images will create a sense of confidence in the teachers’ skills and hopefully encourage the user to want to learn to crochet also. The images in the gallery section all link to external sites such as ravelry where the user can purchase these patterns which can generate another revenue stream for the site owner. 
 I have added drop shadows to the images to give a sense of depth to the page and this makes the imagery even more the focus of the page.
 

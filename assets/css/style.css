@@ -234,7 +234,7 @@ li a:hover {
     }
     a:hover{
        color:#d813d2;
-       font-size: 18px;
+    
     }
 
     /*background image of crochet and candle*/
@@ -369,6 +369,11 @@ textarea {
     color:black;
 }
 
+
+
+
+
+
 /*Media Queries*/
 
 /*for screens max-width 890px -medium*/
@@ -391,6 +396,10 @@ textarea {
     max-width:25%;}
 }
 
+.grid-container{
+    display: no-grid;
+}
+
 /*for screen max-width 768px*/
 @media screen and (max-width:768px) {
     header {
@@ -409,10 +418,12 @@ textarea {
     .head-li{
         padding-top:10px;
         position:relative;
-        top:-50px;
-
-    
+        top:-50px;  
 } 
+
+.grid-container {
+    grid-template-columns: auto;
+}
     
 /*for screens max-width 425px*/
 @media screen and (max-width: 425px) {
@@ -420,7 +431,7 @@ textarea {
 header {
     height:150px;
     width:100%;
-    background-color:orange
+   
 }
 .logo{
 height: 80px;
@@ -434,6 +445,7 @@ width: 150px;
     padding-top:10px;
     position:relative;
     top:-50px;
+}
 
 /*Contact Page*/
 /*
@@ -449,6 +461,8 @@ footer{
 .footer-nav > li {
    font-size: 80%;
 }
+
+
 }
 
 /*
@@ -475,6 +489,7 @@ footer{
     padding-top:10px;
     position:relative;
     top:-50px;
+}
 
 footer{
     height:50px;  

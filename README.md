@@ -1,11 +1,26 @@
 # Caladonia Crochet
 
-Caladonia Crochet is a website designed to advertise a crochet teachers’ classes. This website gives the user an overview on the crochet teacher and their experience with teaching crochet. 
-It is designed to advertise the teachers’ skills while also giving information on the actual classes themselves. The website includes links to external sites for patterns shown on the site.
-The site also includes a form page where the user can sign up to be contacted about the classes. 
-As this is a website for an artist it is designed to be aesthetically pleasing with many pictures and a cohesive style. It also gives the user the ability to sign up to be contacted about the classes.  
+### Purpose
+Caladonia Crochet is a website designed to advertise a crochet teachers’ classes and encourage people to sign up. It is also designed as a source of revenue outside of the classes as there are links to the creators’ paid patterns included on the site.
+This website gives the user an overview on the site owner and their teaching experience. It is designed to advertise their skills while also giving information on the actual classes themselves which is included on the Home page. The classes page gives the details on the time and dates of the classes. There is a gallery page displaying the teachers work. It also includes a form page where the user can sign up to be contacted about the classes. 
+As this is a website for an artist it is designed to be aesthetically pleasing with many pictures and a cohesive colour scheme. 
+ 
 
-![responsive](../Caladonia-Crochet-P1/assets/images/repsonsive.png)
+![responsive](../Caladonia-Crochet-P1/assets/images/responsive.png)
+
+## User Stories
+### First Time Visitor Goals
+As a first-time visitor I want to easily understand the purpose of the site and learn more about the crochet teacher. I want to be able to easily navigate throughout the site to find content. I want to view the website and content clearly on various devices. I want to be able to easily follow Caladonia Crochet on social media. I want to get an understanding of what is involved in the classes.
+### Returning Visitor Goals
+As a returning visitor I want to be able to contact the site owner to sign up or ask questions. I want to be able to find links to the crochet designs displayed on the site that I had seen on my initial visit.
+### Frequent Visitor Goals
+I want to be able to check if there are new classes being offered. I want to be able to check if there are new patterns advertised since the last time I visited.
+
+## Colour scheme
+I have used a consistent colour scheme for this website to give a sense of cohesion and compliment the colourful images of crochet. The text is black and there is also white text used as well when black would not give a strong enough contrast. Links and navigation turn bright pink (#d813d2) when hovered over. The main body of the page is a very light pink rgb(248, 235, 242, 0.30) and it is accented with a dusky purple rgb(80, 16, 80, 0.30). The colours are muted except for a pop of bright pink on links when hovered over. This lets the colours of the imagery be the main focus of the page. 
+
+![responsive](../Caladonia-Crochet-P1/assets/images/colorscheme.png)
+
 
 ## Features 
 

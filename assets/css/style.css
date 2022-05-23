@@ -417,6 +417,14 @@ textarea {
         height: 80px;
         width: 150px;
     }
+
+    .grid-container {
+        grid-template-columns: auto;
+    }
+
+    textarea {
+        width:100%;
+    }
 }
 
 

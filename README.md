@@ -25,23 +25,23 @@ I have used a consistent colour scheme for this website to give a sense of cohes
 
 I created the logo for the website using Adobe logo creator. I wanted something that could act as a brand for the website. This can be used on the site owners social media and any patterns they create so that their work can be easily recognised and help bring users to the website.
 
-![responsive](../Caladonia-Crochet-P1/assets/images/read.me/logo.png)
+![responsive](assets/images/read.me/logo.png)
 
 ## Typography
 
 I choose the font to compliment the Logo. I choose Bitter and Open-sans. I used Bitter for my headings as it is similar to the Logo font. And open-sans is a complimentary font to Bitter. I wanted a very minimal font so as not to distract from the imagery. 
 
-![responsive](../Caladonia-Crochet-P1/assets/images/read.me/typography.png)
+![responsive](assets/images/read.me/typography.png)
 
 # Wire frames
 ### Home
-![responsive](../Caladonia-Crochet-P1/assets/images/read.me/wirehome.png)
+![responsive](assets/images/read.me/wirehome.png)
 ### Classes
-![resonsive](../Caladonia-Crochet-P1/assets/images/read.me/wireclasses.png)
+![resonsive](assets/images/read.me/wireclasses.png)
 ### Gallery
-![responsive](../Caladonia-Crochet-P1/assets/images/read.me/wiregallery.png)
+![responsive](assets/images/read.me/wiregallery.png)
 ### Contact
-![responsive](../Caladonia-Crochet-P1/assets/images/read.me/wirecontact.png)
+![responsive](assets/images/read.me/wirecontact.png)
 ## Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
@@ -59,13 +59,13 @@ I have added drop shadows to the images to give a sense of depth to the page and
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
   - Logo is featured on all four pages, it is the brand of the crochet teacher and is used so that the user can recognise this teachers work across social media platforms and pattern websites. The logo creates brand recognition.
 
-![Nav Bar](../Caladonia-Crochet-P1/assets/images/nav-bar.png)
+![Nav Bar](assets/images/read.me/nav-bar.png)
 
 - __Main page image__
 
   - The main page contains a picture of some crochet, it is designed to catch the users eye and give them an example of what they could create. 
 
-![Main Image](../Caladonia-Crochet-P1/assets/images/image-1.png)
+![Main Image](assets/images/read.me/image-1.png)
 
 - __Learn Crochet__
 
@@ -73,14 +73,14 @@ I have added drop shadows to the images to give a sense of depth to the page and
   - The About the Class section will describe how the classes are run, what to expect and to answer any common questions users may have.
   - This section is designed to build interest for the classes and also a sense of trust and familiarity with the teacher so the user will be more inclined to reach out to join up.
 
-![Learn Crochet](../Caladonia-Crochet-P1/assets/images/about-me-class.png)
+![Learn Crochet](assets/images/read.me/about-me-class.png)
 
 - __Second Image Main Page__
 
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
   - This section will be updated as these times change to keep the user up to date. 
 
-![Second Image](../Caladonia-Crochet-P1/assets/images/second-image-main.png)
+![Second Image](assets/images/read.me/second-image-main.png)
 
 -This image ties in with the aesthetics of the website, giving the user another example of the work of the crochet teacher. 
 
@@ -92,12 +92,12 @@ I have added drop shadows to the images to give a sense of depth to the page and
   - This is useful for the user as they do not need to scroll back to the top of the screen to go to the next page they can do this from the footer also.
   
 
-![Footer](../Caladonia-Crochet-P1/assets/images/footer-image.png)
+![Footer](assets/images/read.me/footer-image.png)
 
 - __Classes__-
 
-![Class Schedule](../Caladonia-Crochet-P1/assets/images/classes-1.png)
-![Class Schedule 2](../Caladonia-Crochet-P1/assets/images/classes-2.png)
+![Class Schedule](assets/images/read.me/classes-1.png)
+![Class Schedule 2](assets/images/read.me/classes-2.png)
 
 
 - __Gallery__
@@ -108,8 +108,8 @@ I have added drop shadows to the images to give a sense of depth to the page and
   - This section also has links to the patterns when the images are clicked on.
   - This is valuable for the user as even if they dont sign up to the class they can still find the links to purchase the patterns from the teacher. This is valuable for the teacher too as even if they do not sign up for the class this can still generate revenue.
 
-![Gallery](../Caladonia-Crochet-P1/assets/images/gallery-1.png)
-![Gallery 2](../Caladonia-Crochet-P1/assets/images/gallery-2.png)
+![Gallery](assets/images/read.me/gallery-1.png)
+![Gallery 2](assets/images/read.me/gallery-2.png)
 
 - __The Contact Page__
 

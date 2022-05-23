@@ -6,7 +6,7 @@ This website gives the user an overview on the site owner and their teaching exp
 As this is a website for an artist it is designed to be aesthetically pleasing with many pictures and a cohesive colour scheme. 
  
 
-![responsive](assets/images/read.me/colorscheme.png)
+![responsive](assets/images/read.me/responsive.png)
 
 ## User Stories
 ### First Time Visitor Goals
@@ -19,7 +19,7 @@ I want to be able to check if there are new classes being offered. I want to be 
 ## Colour scheme
 I have used a consistent colour scheme for this website to give a sense of cohesion and compliment the colourful images of crochet. The text is black and there is also white text used as well when black would not give a strong enough contrast. Links and navigation turn bright pink (#d813d2) when hovered over. The main body of the page is a very light pink rgb(248, 235, 242, 0.30) and it is accented with a dusky purple rgb(80, 16, 80, 0.30). The colours are muted except for a pop of bright pink on links when hovered over. This lets the colours of the imagery be the main focus of the page. 
 
-![responsive](../Caladonia-Crochet-P1/assets/images/read.me/colorscheme.png)
+![responsive](assets/images/read.me/colorscheme.png)
 
 ## Logo 
 

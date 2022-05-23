@@ -199,3 +199,60 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 
 -Image below sourced from (https://classbento.com.au/7-trending-crafts-to-sink-your-hands-into-in-2022)
   -	Woman crochet image from Contact page
+
+-The Logo for the page was created in Adobe logo creator by me.
+
+### Code
+
+I used the below sites to help me design and style my site.
+
+- Reference for Align
+  https://www.w3schools.com/css/css_align.asp
+
+- References for Flex Box
+  https://www.w3schools.com/cssref/pr_class_display.asp
+  https://www.youtube.com/watch?v=RSIclWvNTdQ
+
+- Reference for Z-index
+  https://www.w3schools.com/cssref/pr_pos_z-index.asp
+
+- Reference for Textarea
+  https://stackoverflow.com/questions/43793639/change-placeholder-text-color-of-textarea
+
+- Reference for Blurred Background
+  https://www.w3schools.com/howto/howto_css_blurred_background.asp
+
+- Reference for Grid
+  https://www.w3schools.com/css/tryit.asp?filename=trycss_grid
+  https://stackoverflow.com/questions/49880534/how-to-make-3-column-css-grid-change-into-1-column-on-mobiles-with-media-query
+  https://www.w3schools.com/css/css_grid.asp
+  https://css-tricks.com/snippets/css/complete-guide-grid/
+
+
+### Technologies
+The project was primarily written in HTML and CSS. 
+The project was written and tested in the Gitpod IDE.
+The project was debugged using Google Chrome Dev Tools.
+The project's template was generated from Code Institute's Gitpod Template.
+The project uses FontAwesome v5.15.1, a free icon-set/toolkit for web development.
+The project uses Google Fonts for typography.
+THe images were converted to webp using cloud convert
+The project's accessibility was tested via Google Chrome's Lighthouse.
+The project's HTML was validated using W3C HTML Markup Validator.
+The project's CSS was validated using W3C Jigsaw CSS Validator.
+The project's wireframes were designed in Balsamiq.
+
+
+# Acknowledgements
+The concept for this project has come from my love of crochet, art, and beautiful design. 
+Thank you to my mentor, Ronan McClelland, who provided a huge amount of support and guidance for this project. 
+
+Thank you to my brother Karl, who looked over my project and gave me constructive feedback from his perspective as a software developer. 
+
+Thank you to my husband and children who have patiently put up with me over the last few weeks while I have given alot of my attention to getting this project completed.
+
+
+## Disclaimer
+This website is for educational purposes only.
+
+

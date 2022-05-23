@@ -6,7 +6,7 @@ This website gives the user an overview on the site owner and their teaching exp
 As this is a website for an artist it is designed to be aesthetically pleasing with many pictures and a cohesive colour scheme. 
  
 
-![responsive](../Caladonia-Crochet-P1/assets/images/read.me/responsive.png)
+![responsive](../Caladonia-Crochet-P1/assets/images/read.me-images/responsive.png)
 
 ## User Stories
 ### First Time Visitor Goals

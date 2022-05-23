@@ -182,4 +182,20 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
   -	Pillow from the gallery page
   -	Van gogh images from the gallery page
 
+- Images below were taken from Lilla Bjorn crochet website (https://www.lillabjorncrochet.com/)
+  - Mandala image from the main page
 
+- Images below were sourced from the look what I made website (https://lookatwhatimade.net/)
+  - Fancy Nancy image from the gallery page
+
+- Image below sourced from Annie design crochet (https://www.anniedesigncrochet.com/crochet-mandala-pattern/)
+  - Main Image on home page
+
+- Image below sourced from Mijo Crochet (https://mijocrochet.se/2017/03/15/lost-in-time-shawl-sjal/)
+  - Scarf image from the gallery page
+
+-Image below sourced from Ravelry (https://www.ravelry.com/projects/jellina/rozeta-scheepjes-cal-2019)
+  -	Scheepjes Rozetta image from gallery page
+
+-Image below sourced from (https://classbento.com.au/7-trending-crafts-to-sink-your-hands-into-in-2022)
+  -	Woman crochet image from Contact page

@@ -61,29 +61,6 @@ I have added drop shadows to the images to give a sense of depth to the page and
 
 ![Nav Bar](assets/images/read.me/nav-bar.png)
 
-- __Main page image__
-
-  - The main page contains a picture of some crochet, it is designed to catch the users eye and give them an example of what they could create. 
-
-![Main Image](assets/images/read.me/image-1.png)
-
-- __Learn Crochet__
-
-  - The About me section will allow the user to get familiar with the crochet teacher and to learn about their experience. This should create a sense of trust between the user and the teacher which will encourage the user to sign up for classes.
-  - The About the Class section will describe how the classes are run, what to expect and to answer any common questions users may have.
-  - This section is designed to build interest for the classes and also a sense of trust and familiarity with the teacher so the user will be more inclined to reach out to join up.
-
-![Learn Crochet](assets/images/read.me/about-me-class.png)
-
-- __Second Image Main Page__
-
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-
-![Second Image](assets/images/read.me/second-image-main.png)
-
--This image ties in with the aesthetics of the website, giving the user another example of the work of the crochet teacher. 
-
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
@@ -94,10 +71,28 @@ I have added drop shadows to the images to give a sense of depth to the page and
 
 ![Footer](assets/images/read.me/footer-image.png)
 
-- __Classes__-
+- __Main page images__
 
-![Class Schedule](assets/images/read.me/classes-1.png)
-![Class Schedule 2](assets/images/read.me/classes-2.png)
+  -  The main page contains a pictures of some crochet, it is designed to catch the users eye and give them an example of what they could create by taking a class. 
+
+![Main Image](assets/images/read.me/image-1.png)
+
+- __About Section__
+
+  - The About me section will allow the user to get familiar with the crochet teacher and to learn about their experience. This should create a sense of trust between the user and the teacher which will encourage the user to sign up for classes.
+  - The About the Class section will describe how the classes are run, what to expect and to answer any common questions users may have.
+  - This section is designed to build interest for the classes and also a sense of trust and familiarity with the teacher so the user will be more inclined to reach out to join up.
+
+![Learn Crochet](assets/images/read.me/about-me-class.png)
+
+- __Classes Page__
+
+  - This section will allow the user to see exactly when the classes happen, where they will be located and how long the class is 
+  - This section will be updated as these times change and more classes are added to keep the user up to date.  
+
+![Classes](../put in image) 
+
+-This image ties in with the aesthetics of the website, giving the user another example of the work of the crochet teacher. 
 
 
 - __Gallery__

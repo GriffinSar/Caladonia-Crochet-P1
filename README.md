@@ -15,22 +15,28 @@ As a returning visitor I want to be able to contact the site owner to sign up or
 ### Frequent Visitor Goals
 I want to be able to check if there are new classes being offered. I want to be able to check if there are new patterns advertised since the last time I visited.
 
-## Colour scheme
+### Colour scheme
 I have used a consistent colour scheme for this website to give a sense of cohesion and compliment the colourful images of crochet. The text is black and there is also white text used as well when black would not give a strong enough contrast. Links and navigation turn bright pink (#d813d2) when hovered over. The main body of the page is a very light pink rgb(248, 235, 242, 0.30) and it is accented with a dusky purple rgb(80, 16, 80, 0.30). The colours are muted except for a pop of bright pink on links when hovered over. This lets the colours of the imagery be the main focus of the page.
 
 ![responsive](assets/images/read.me/colorscheme.png)
 
-## Logo 
+### Logo 
 
 I created the logo for the website using Adobe logo creator. I wanted something that could act as a brand for the website. This can be used on the site owners social media and any patterns they create so that their work can be easily recognised and help bring users to the website.
 
 ![responsive](assets/images/read.me/logo.png)
 
-## Typography
+### Typography
 
 I choose the font to compliment the Logo. I choose Bitter and Open-sans. I used Bitter for my headings as it is similar to the Logo font. And open-sans is a complimentary font to Bitter. I wanted a very minimal font so as not to distract from the imagery. 
 
 ![responsive](assets/images/read.me/typography.png)
+
+### Imagery
+I have used several images from the crochet teacher, her style is very colourful and vibrant. The muted colours of the website help to emphasise the vibrancy of the imagery. The images will create a sense of confidence in the teachers’ skills and hopefully encourage the user to want to learn to crochet also. The images in the gallery section all link to external sites such as ravelry where the user can purchase these patterns which can generate another revenue stream for the site owner. 
+I have added drop shadows to the images to give a sense of depth to the page and this makes the imagery even more the focus of the page.
+
+
 
 # Wire frames
 ### Home
@@ -44,13 +50,6 @@ I choose the font to compliment the Logo. I choose Bitter and Open-sans. I used 
 
 # Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-# Imagery
-I have used several images from the crochet teacher, her style is very colourful and vibrant. The muted colours of the website help to emphasise the vibrancy of the imagery. The images will create a sense of confidence in the teachers’ skills and hopefully encourage the user to want to learn to crochet also. The images in the gallery section all link to external sites such as ravelry where the user can purchase these patterns which can generate another revenue stream for the site owner. 
-I have added drop shadows to the images to give a sense of depth to the page and this makes the imagery even more the focus of the page.
-
-
 ### Existing Features
 
 - __Navigation Bar And Logo__
@@ -59,23 +58,19 @@ I have added drop shadows to the images to give a sense of depth to the page and
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
   - Logo is featured on all four pages, it is the brand of the crochet teacher and is used so that the user can recognise this teachers work across social media platforms and pattern websites. The logo creates brand recognition.
 
-![Nav Bar](assets/images/read.me/nav-bar.png)
+![Nav-Bar](assets/images/read.me/navbar.png)
+
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites for the site owner. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
-  - The footer also contains links replicated from the header
-  - This is useful for the user as they do not need to scroll back to the top of the screen to go to the next page they can do this from the footer also.
   
-
-![Footer](assets/images/read.me/footer-image.png)
+![Footer](assets/images/read.me/footer.png)
 
 - __Main page images__
 
   -  The main page contains a pictures of some crochet, it is designed to catch the users eye and give them an example of what they could create by taking a class. 
-
-![Main Image](assets/images/read.me/image-1.png)
 
 - __About Section__
 
@@ -83,14 +78,12 @@ I have added drop shadows to the images to give a sense of depth to the page and
   - The About the Class section will describe how the classes are run, what to expect and to answer any common questions users may have.
   - This section is designed to build interest for the classes and also a sense of trust and familiarity with the teacher so the user will be more inclined to reach out to join up.
 
-![Learn Crochet](assets/images/read.me/about-me-class.png)
-
 - __Classes Page__
 
   - This section will allow the user to see exactly when the classes happen, where they will be located and how long the class is 
   - This section will be updated as these times change and more classes are added to keep the user up to date.  
 
-![Classes](../put in image) 
+![Classes](assets/images/read.me/classes.png) 
 
 -This image ties in with the aesthetics of the website, giving the user another example of the work of the crochet teacher. 
 
@@ -103,20 +96,19 @@ I have added drop shadows to the images to give a sense of depth to the page and
   - This section also has links to the patterns when the images are clicked on.
   - This is valuable for the user as even if they dont sign up to the class they can still find the links to purchase the patterns from the teacher. This is valuable for the teacher too as even if they do not sign up for the class this can still generate revenue.
 
-![Gallery](assets/images/read.me/gallery-1.png)
-![Gallery 2](assets/images/read.me/gallery-2.png)
+![Gallery](assets/images/read.me/gallery.png)
 
 - __The Contact Page__
 
   - This page will allow the user to enter their details so that they can be contacted by the site owner to schedule their class. The user will be able specify what class level they are interested in, beginner, intermediate or advanced. The user will be asked to submit their full name, email address and contact number. They will also be able to submit any extra questions or requirements they may have so the site owner can assist them further. 
 
-![Contact](../Caladonia-Crochet-P1/assets/images/contact-1.png)
-![Contact-2](../Caladonia-Crochet-P1/assets/images/contact-2.png)
+![Contact](assets/images/read.me/contact.png)
+
 
 
 ### Features Left to Implement
 
-- Another feature idea
+- In the future I hope to add a sign up feature where the user can subscribe to a newsletter to be alerted when new classes or patterns are released.
 
 ## Testing 
 

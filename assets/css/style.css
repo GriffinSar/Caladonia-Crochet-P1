@@ -14,7 +14,10 @@ body {
 */
 
 body, html {
-    height: 100%;
+    height: 50%;
+    background-color: rgb(248, 235, 242);
+    color: black
+    font-family: 'Open Sans', sans-serif;
   }
   
   * {
@@ -22,6 +25,7 @@ body, html {
   }
 h1, h2 {
     font-family: 'Bitter', serif;
+   
 }
 
 /*nav-bar*/
@@ -29,6 +33,9 @@ h1, h2 {
 header{
     height:150px;
     width:100%;
+    /*
+    background-color: rgb(248, 235, 242);
+    */
 }
 
 .head-list{
@@ -90,6 +97,7 @@ img {
 .learn {
     text-align: center;
     padding-top:20px;
+    background-color: rgb(248, 235, 242);
 }
 
 .maintext {
@@ -97,6 +105,7 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 40%;
+  
 }
 
 .about-me, .about-class{
@@ -105,12 +114,17 @@ img {
     margin-top: 20px;
     margin-bottom: 20px;
     padding-bottom: 20px;
-    text-decoration: underline;
+    text-decoration: underline;  
  }
 
  p {
     padding-bottom: 20px;
-    text-align: center;}
+    text-align: center;
+    }
+
+    .pink {
+     background-color:rgb(248, 235, 242);  
+    }
 
 /*mandala image*/
 #mandala {
@@ -128,6 +142,9 @@ footer{
     width: 100%;
     justify-content:center;
     align-items:center;
+    /*
+    background-color: rgb(248, 235, 242);
+    */
 }
 
 /* sets the list horizontally*/
@@ -386,6 +403,14 @@ textarea {
         width: 150px;
     }
 
+    .head-list{
+        max-width:25%;
+    }
+    .head-li{
+        padding-top:10px;
+        position:relative;
+        top:-50px;
+
     
 } 
     
@@ -401,6 +426,14 @@ header {
 height: 80px;
 width: 150px;
 }
+
+.head-list{
+    max-width:25%;
+}
+.head-li{
+    padding-top:10px;
+    position:relative;
+    top:-50px;
 
 /*Contact Page*/
 /*
@@ -434,6 +467,14 @@ footer{
 }
 
 /*footer*/
+
+.head-list{
+    max-width:25%;
+}
+.head-li{
+    padding-top:10px;
+    position:relative;
+    top:-50px;
 
 footer{
     height:50px;  

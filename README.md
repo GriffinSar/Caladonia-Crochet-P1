@@ -33,7 +33,15 @@ I choose the font to compliment the Logo. I choose Bitter and Open-sans. I used 
 
 ![responsive](../Caladonia-Crochet-P1/assets/images/read.me/typography.png)
 
-
+# Wire frames
+### Home
+![responsive](../Caladonia-Crochet-P1/assets/images/read.me/wirehome.png)
+### Classes
+![resonsive](../Caladonia-Crochet-P1/assets/images/read.me/wireclasses.png)
+### Gallery
+![responsive](../Caladonia-Crochet-P1/assets/images/read.me/wiregallery.png)
+### Contact
+![responsive](../Caladonia-Crochet-P1/assets/images/read.me/wirecontact.png)
 ## Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.

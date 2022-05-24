@@ -120,6 +120,14 @@ I have added drop shadows to the images to give a sense of depth to the page and
 ![Test4](assets/images/testing/test4.png)
 ![Test5](assets/images/testing/test5.png)
 
+
+## Issues and Resolutions to issues found during testing
+- Clicking the logo doesn't redirect to home page. I resolved this by adding a href link to the home page
+- Images were too large causing performance issues. I resized images and converted some to gif to have the page run more smoothly.
+- Spelling mistakes were found when proof reading, these were corrected.
+- Form was accepting multiple selections for class level. Changed to radio so only one can be checked at a time.
+
+
 ## Lighthouse Testing
 
 #### Home Page
@@ -211,26 +219,26 @@ The live link can be found here - (Add live site link!)
 I used the below sites to help me design and style my site.
 
 - Reference for Align
-  https://www.w3schools.com/css/css_align.asp
+  -https://www.w3schools.com/css/css_align.asp
 
 - References for Flex Box
-  https://www.w3schools.com/cssref/pr_class_display.asp
-  https://www.youtube.com/watch?v=RSIclWvNTdQ
+  -https://www.w3schools.com/cssref/pr_class_display.asp
+  -https://www.youtube.com/watch?v=RSIclWvNTdQ
 
 - Reference for Z-index
-  https://www.w3schools.com/cssref/pr_pos_z-index.asp
+  -https://www.w3schools.com/cssref/pr_pos_z-index.asp
 
 - Reference for Textarea
-  https://stackoverflow.com/questions/43793639/change-placeholder-text-color-of-textarea
+  -https://stackoverflow.com/questions/43793639/change-placeholder-text-color-of-textarea
 
 - Reference for Blurred Background
-  https://www.w3schools.com/howto/howto_css_blurred_background.asp
+  -https://www.w3schools.com/howto/howto_css_blurred_background.asp
 
 - Reference for Grid
-  https://www.w3schools.com/css/tryit.asp?filename=trycss_grid
-  https://stackoverflow.com/questions/49880534/how-to-make-3-column-css-grid-change-into-1-column-on-mobiles-with-media-query
-  https://www.w3schools.com/css/css_grid.asp
-  https://css-tricks.com/snippets/css/complete-guide-grid/
+  -https://www.w3schools.com/css/tryit.asp?filename=trycss_grid
+  -https://stackoverflow.com/questions/49880534/-how-to-make-3-column-css-grid-change-into-1-column-on-mobiles-with-media-query
+  -https://www.w3schools.com/css/css_grid.asp
+  -https://css-tricks.com/snippets/css/complete-guide-grid/
 
 
 ### Technologies

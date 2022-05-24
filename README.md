@@ -13,10 +13,11 @@
     - [Imagery](#imagery)
 - [Wireframes](#wire-frames)
 - [Features](#features)
-    -[Existing-Features](#existing-features)
-    -[Features-left-to-Implement](#features-left-to-implement)
+    - [Existing-Features](#existing-features)
+    - [Features-left-to-Implement](#features-left-to-implement)
 - [Testing](#testing)
     - [Manual-Testing](#manual-testing)
+    - [Issues-and-Resolutions](#issues-and-resolutions-found-during-testing)
     - [Lighthouse](#lighthouse-testing)
     - [Validator-Testing](#validator-testing)
 - [Deployment](#deployment)
@@ -162,7 +163,7 @@ I have added drop shadows to the images to give a sense of depth to the page and
 ![Test5](assets/images/testing/test5.png)
 
 
-## Issues and Resolutions to issues found during testing
+## Issues and Resolutions found during testing
 - Clicking the logo doesn't redirect to home page. I resolved this by adding a href link to the home page
 - Images were too large causing performance issues. I resized images and converted some to gif to have the page run more smoothly.
 - Spelling mistakes were found when proof reading, these were corrected.
@@ -248,13 +249,13 @@ The live link can be found here - (Add live site link!)
 - Image below sourced from Mijo Crochet (https://mijocrochet.se/2017/03/15/lost-in-time-shawl-sjal/)
   - Scarf image from the gallery page
 
--Image below sourced from Ravelry (https://www.ravelry.com/projects/jellina/rozeta-scheepjes-cal-2019)
+- Image below sourced from Ravelry (https://www.ravelry.com/projects/jellina/rozeta-scheepjes-cal-2019)
   -	Scheepjes Rozetta image from gallery page
 
--Image below sourced from (https://classbento.com.au/7-trending-crafts-to-sink-your-hands-into-in-2022)
+- Image below sourced from (https://classbento.com.au/7-trending-crafts-to-sink-your-hands-into-in-2022)
   -	Woman crochet image from Contact page
 
--The Logo for the page was created in Adobe express by me.
+- The Logo for the page was created in Adobe express by me.
 
 ### Code
 

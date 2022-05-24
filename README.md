@@ -7,6 +7,10 @@ As this is a website for an artist it is designed to be aesthetically pleasing w
 
 ![responsive](assets/images/read.me/responsive.png)
 
+# Target Audience
+The target audience for this website are people who are interested in art and crafting and specifically those looking to learn crochet. There has been a huge resurgence in crochet through platforms such as instagram and pinterest so there is a market and need for a site where people in Ireland can sign up to learn crochet.
+There is another audience of those who can already crochet who will find this website useful as a way to get an overview and easy access to the teachers crochet patters. 
+
 # User Stories
 ### First Time Visitor Goals
 As a first-time visitor I want to easily understand the purpose of the site and learn more about the crochet teacher. I want to be able to easily navigate throughout the site to find content. I want to view the website and content clearly on various devices. I want to be able to easily follow Caladonia Crochet on social media. I want to get an understanding of what is involved in the classes.
@@ -22,7 +26,7 @@ I have used a consistent colour scheme for this website to give a sense of cohes
 
 ### Logo 
 
-I created the logo for the website using Adobe logo creator. I wanted something that could act as a brand for the website. This can be used on the site owners social media and any patterns they create so that their work can be easily recognised and help bring users to the website.
+I created the logo for the website using Adobe Express. I wanted something that could act as a brand for the website. This can be used on the site owners social media and any patterns they create so that their work can be easily recognised and help bring users to the website.
 
 ![responsive](assets/images/read.me/logo.png)
 
@@ -33,9 +37,8 @@ I choose the font to compliment the Logo. I choose Bitter and Open-sans. I used 
 ![responsive](assets/images/read.me/typography.png)
 
 ### Imagery
-I have used several images from the crochet teacher, her style is very colourful and vibrant. The muted colours of the website help to emphasise the vibrancy of the imagery. The images will create a sense of confidence in the teachers’ skills and hopefully encourage the user to want to learn to crochet also. The images in the gallery section all link to external sites such as ravelry where the user can purchase these patterns which can generate another revenue stream for the site owner. 
-I have added drop shadows to the images to give a sense of depth to the page and this makes the imagery even more the focus of the page.
-
+I have used several images from the crochet teacher, her style is very colourful and vibrant. The muted colours of the website help to emphasise the vibrancy of the imagery. The images will create a sense of confidence in the teachers’ skills and hopefully encourage the user to want to sign up to her classes. The images in the gallery section all link to external sites such as ravelry where the user can purchase these patterns. This can generate another revenue stream for the site owner. 
+I have added drop shadows to the images to give a sense of depth to the page and this emphasises the imagery further.
 
 
 # Wire frames
@@ -54,9 +57,10 @@ I have added drop shadows to the images to give a sense of depth to the page and
 
 - __Navigation Bar And Logo__
 
-  - Featured on all four pages, the full responsive navigation bar includes links to the, Home page, Gallery page, Classes page and Contact page and is identical in each page to allow for easy navigation.
+  - Featured on all four pages, the fully responsive navigation bar includes links to the Home page, Gallery page, Classes page and Contact page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
   - Logo is featured on all four pages, it is the brand of the crochet teacher and is used so that the user can recognise this teachers work across social media platforms and pattern websites. The logo creates brand recognition.
+  - The Logo is also a link which if clicked will bring the user back to the home page, this is a standard in websites so is included as this will be what the user is expecting.
 
 ![Nav-Bar](assets/images/read.me/navbar.png)
 
@@ -64,37 +68,39 @@ I have added drop shadows to the images to give a sense of depth to the page and
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for the site owner. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
   
 ![Footer](assets/images/read.me/footer.png)
 
 - __Main page images__
 
   -  The main page contains a pictures of some crochet, it is designed to catch the users eye and give them an example of what they could create by taking a class. 
+  - It should grab the users attention and give them a positive emotional response which will encourage them to stay on the site and explore it further. 
 
 - __About Section__
 
-  - The About me section will allow the user to get familiar with the crochet teacher and to learn about their experience. This should create a sense of trust between the user and the teacher which will encourage the user to sign up for classes.
+  - The About me section will allow the user to get familiar with the crochet teacher and to learn about their experience as an artist and teacher. 
+  - This section should create a sense of trust between the user and the teacher which will encourage them to sign up for the classes.
   - The About the Class section will describe how the classes are run, what to expect and to answer any common questions users may have.
-  - This section is designed to build interest for the classes and also a sense of trust and familiarity with the teacher so the user will be more inclined to reach out to join up.
+  - This section is designed to create a positive emotional response. It should put the user at ease and give them the confidence that they would enjoy their interaction in the class if they sign up.
 
 - __Classes Page__
 
   - This section will allow the user to see exactly when the classes happen, where they will be located and how long the class is 
   - This section will be updated as these times change and more classes are added to keep the user up to date.  
+  -This image on this page ties in with the aesthetics of the website, giving the user another example of the work of the crochet teacher.
 
 ![Classes](assets/images/read.me/classes.png) 
-
--This image ties in with the aesthetics of the website, giving the user another example of the work of the crochet teacher. 
 
 
 - __Gallery__
 
   - The gallery provides users with images of the crochet teachers work to advertise her skills
   - This section is valuable to the user as they will be able to see the types of work created in the class and 
-  they will be able to then decide if this is a style they are interested in.
+  - the user will be able to then decide if this is a style they are interested in.
   - This section also has links to the patterns when the images are clicked on.
-  - This is valuable for the user as even if they dont sign up to the class they can still find the links to purchase the patterns from the teacher. This is valuable for the teacher too as even if they do not sign up for the class this can still generate revenue.
+  - This is valuable for the user as even if they dont sign up to the class they can still find the links to purchase the patterns from the teacher. 
+  - This is valuable for the teacher as even if they do not sign up for the class this can still generate revenue.
 
 ![Gallery](assets/images/read.me/gallery.png)
 
@@ -109,6 +115,7 @@ I have added drop shadows to the images to give a sense of depth to the page and
 ### Features Left to Implement
 
 - In the future I hope to add a sign up feature where the user can subscribe to a newsletter to be alerted when new classes or patterns are released.
+- Another feature that I would like to implement would be the some videos on the site to tutorials the teacher has created on Youtube as this is commonly seen on many crochet sites and would be another draw for the user. 
 
 # Testing 
 
@@ -149,14 +156,15 @@ I have added drop shadows to the images to give a sense of depth to the page and
 
 ### Home Page
 ![ValHome](assets/images/testing/home-html.png)
-Solution: renamed image to header-logo to remove spaces and replicated on each page for the site.
+
+- Solution: renamed image to header-logo to remove spaces and replicated on each page for the site.
 
 
 - CSS
   - One Error Found when passed through [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
   ![Cssval](assets/images/testing/css-val.png)
-  Solution: Added semicolon to the color in the body section.
+  - Solution: Added semicolon to the color in the body section.
 
 
 ## Deployment
@@ -212,7 +220,7 @@ The live link can be found here - (Add live site link!)
 -Image below sourced from (https://classbento.com.au/7-trending-crafts-to-sink-your-hands-into-in-2022)
   -	Woman crochet image from Contact page
 
--The Logo for the page was created in Adobe logo creator by me.
+-The Logo for the page was created in Adobe express by me.
 
 ### Code
 
@@ -242,17 +250,20 @@ I used the below sites to help me design and style my site.
 
 
 ### Technologies
+
 - The project was primarily written in HTML and CSS. 
 - The project was written and tested in the Gitpod IDE.
 - The project was debugged using Google Chrome Dev Tools.
 - The project's template was generated from Code Institute's Gitpod Template.
-- The project uses FontAwesome v5.15.1, a free icon-set/toolkit for web development.
+- The project uses FontAwesome.
 - The project uses Google Fonts for typography.
 - The images were converted to webp using cloud convert
 - The project's accessibility was tested via Google Chrome's Lighthouse.
 - The project's HTML was validated using W3C HTML Markup Validator.
 - The project's CSS was validated using W3C Jigsaw CSS Validator.
 - The project's wireframes were designed in Balsamiq.
+- The project's logo was designed using Adobe Express.
+- Some of the  images were resized using microsoft paint.
 
 
 # Acknowledgements

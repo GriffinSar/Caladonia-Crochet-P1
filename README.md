@@ -234,17 +234,17 @@ I used the below sites to help me design and style my site.
 
 
 ### Technologies
-The project was primarily written in HTML and CSS. 
-The project was written and tested in the Gitpod IDE.
-The project was debugged using Google Chrome Dev Tools.
-The project's template was generated from Code Institute's Gitpod Template.
-The project uses FontAwesome v5.15.1, a free icon-set/toolkit for web development.
-The project uses Google Fonts for typography.
-THe images were converted to webp using cloud convert
-The project's accessibility was tested via Google Chrome's Lighthouse.
-The project's HTML was validated using W3C HTML Markup Validator.
-The project's CSS was validated using W3C Jigsaw CSS Validator.
-The project's wireframes were designed in Balsamiq.
+- The project was primarily written in HTML and CSS. 
+- The project was written and tested in the Gitpod IDE.
+- The project was debugged using Google Chrome Dev Tools.
+- The project's template was generated from Code Institute's Gitpod Template.
+- The project uses FontAwesome v5.15.1, a free icon-set/toolkit for web development.
+- The project uses Google Fonts for typography.
+- The images were converted to webp using cloud convert
+- The project's accessibility was tested via Google Chrome's Lighthouse.
+- The project's HTML was validated using W3C HTML Markup Validator.
+- The project's CSS was validated using W3C Jigsaw CSS Validator.
+- The project's wireframes were designed in Balsamiq.
 
 
 # Acknowledgements

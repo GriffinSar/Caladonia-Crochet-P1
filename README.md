@@ -125,7 +125,9 @@ I have added drop shadows to the images to give a sense of depth to the page and
 #### Home Page
 ![Home](assets/images/testing/lighthouse-home.png)
 #### Classes Page
+(Not completed - need to resize image)
 #### Gallery Page
+(Not completed - need to resize image)
 #### Contact Page
 ![Contact](assets/images/testing/contact-lighthouse.png)
 
@@ -151,6 +153,8 @@ Solution: renamed image to header-logo to remove spaces and replicated on each p
 
 ## Deployment
 
+(This section not completed yet)
+
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
@@ -158,7 +162,7 @@ This section should describe the process you went through to deploy the project 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - (Add live site link!) 
 
 
 # Credits 

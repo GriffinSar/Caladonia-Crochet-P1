@@ -1,4 +1,36 @@
-# Caladonia Crochet
+# Table of Contents
+
+- [Purpose](#purpose)
+    - [Target Audience](#target-audience)
+- [User-Stories](#user-stories)
+    - [First-Time-Visitor-Goals](#first-time-visitor-goals)
+    - [Returning-Visitor-Goals](#returning-visitor-goals)
+    - [Frequent-Visitor-Goals](#frequent-visitor-goals)
+- [Design](#design)
+    - [Colour-Scheme](#colour-scheme)
+    - [Logo](#logo)
+    - [Typography](#typography)
+    - [Imagery](#imagery)
+- [Wireframes](#wire-frames)
+- [Features](#features)
+    -[Existing-Features](#existing-features)
+    -[Features-left-to-Implement](#features-left-to-implement)
+- [Testing](#testing)
+    - [Manual-Testing](#manual-testing)
+    - [Lighthouse](#lighthouse-testing)
+    - [Validator-Testing](#validator-testing)
+- [Deployment](#deployment)
+- [Credits](#credits)
+    - [Content](#content)
+    - [Media](#media)
+    - [Code](#code)
+    - [Technologies](#technologies)
+- [Acknowledgements](#acknowledgements)
+- [Disclaimer](#disclaimer)
+
+
+
+# Caladonia Crochet 
 
 ### Purpose
 Caladonia Crochet is a website designed to advertise a crochet teachers’ classes and encourage people to sign up. It is also designed as a source of revenue outside of the classes as there are links to the creators’ paid patterns included on the site.<br>
@@ -18,6 +50,8 @@ As a first-time visitor I want to easily understand the purpose of the site and 
 As a returning visitor I want to be able to contact the site owner to sign up or ask questions. I want to be able to find links to the crochet designs displayed on the site that I had seen on my initial visit.
 ### Frequent Visitor Goals
 I want to be able to check if there are new classes being offered. I want to be able to check if there are new patterns advertised since the last time I visited.
+
+# Design
 
 ### Colour scheme
 I have used a consistent colour scheme for this website to give a sense of cohesion and compliment the colourful images of crochet. The text is black and there is also white text used as well when black would not give a strong enough contrast. Links and navigation turn bright pink (#d813d2) when hovered over. The main body of the page is a very light pink rgb(248, 235, 242, 0.30) and it is accented with a dusky purple rgb(80, 16, 80, 0.30). The colours are muted except for a pop of bright pink on links when hovered over. This lets the colours of the imagery be the main focus of the page.

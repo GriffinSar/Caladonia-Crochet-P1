@@ -125,7 +125,7 @@ I have added drop shadows to the images to give a sense of depth to the page and
 #### Home Page
 ![Home](assets/images/testing/lighthouse-home.png)
 #### Classes Page
-(Not completed - need to resize image)
+![Classes](assets/images/testing/Lighthouse-classes.png)
 #### Gallery Page
 (Not completed - need to resize image)
 #### Contact Page

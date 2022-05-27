@@ -262,26 +262,27 @@ The live link can be found here - (Add live site link!)
 I used the below sites to help me design and style my site.
 
 - Reference for Align
-  -https://www.w3schools.com/css/css_align.asp
+  - https://www.w3schools.com/css/css_align.asp
 
 - References for Flex Box
-  -https://www.w3schools.com/cssref/pr_class_display.asp
-  -https://www.youtube.com/watch?v=RSIclWvNTdQ
+  - https://www.w3schools.com/cssref/pr_class_display.asp
+  - https://www.youtube.com/watch?v=RSIclWvNTdQ
 
 - Reference for Z-index
-  -https://www.w3schools.com/cssref/pr_pos_z-index.asp
+  - https://www.w3schools.com/cssref/pr_pos_z-index.asp
 
 - Reference for Textarea
-  -https://stackoverflow.com/questions/43793639/change-placeholder-text-color-of-textarea
+  - https://stackoverflow.com/questions/43793639/change-placeholder-text-color-of-textarea
 
 - Reference for Blurred Background
-  -https://www.w3schools.com/howto/howto_css_blurred_background.asp
+  - https://www.w3schools.com/howto/howto_css_blurred_background.asp
 
 - Reference for Grid
-  -https://www.w3schools.com/css/tryit.asp?filename=trycss_grid
-  -https://stackoverflow.com/questions/49880534/-how-to-make-3-column-css-grid-change-into-1-column-on-mobiles-with-media-query
-  -https://www.w3schools.com/css/css_grid.asp
-  -https://css-tricks.com/snippets/css/complete-guide-grid/
+  - https://www.w3schools.com/css/tryit.asp?filename=trycss_grid
+  - https://stackoverflow.com/questions/49880534/
+  - https://www.w3schools.com/css/css_grid.asp
+  - https://css-tricks.com/snippets/css/complete-guide-grid/
+  - how-to-make-3-column-css-grid-change-into-1-column-on-mobiles-with-media-query
 
 
 ### Technologies

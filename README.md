@@ -206,18 +206,25 @@ I have added drop shadows to the images to give a sense of depth to the page and
 
 ## Deployment
 
-(This section not completed yet)
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
-
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+### Using Github Pages
+ 
+ - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - From the source section drop-down menu, select the Main Branch
+  - Once the Main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - I then had to wait a few minutes until the site was fully deployed and it was ready.
 
-The live link can be found here - (Add live site link!) 
+The live link can be found here - (https://griffinsar.github.io/Caladonia-Crochet-P1/) 
 
+### Run Locally
 
+- Navigate to the GitHub Repository:
+  - Click the Code drop down menu.
+  - Either Download the ZIP file, unpackage locally and open with IDE (This route ends here) OR Copy Git URL from the HTTPS dialogue box.
+  - Open your developement editor of choice and open a terminal window in a directory of your choice.
+  - Use the 'git clone' command in terminal followed by the copied git URL.
+  - A clone of the project will be created locally on your machine.
+  
 # Credits 
 
 ### Content 

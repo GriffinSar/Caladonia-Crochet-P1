@@ -38,6 +38,8 @@ Caladonia Crochet is a website designed to advertise a crochet teachers’ class
 This website gives the user an overview on the site owner and their teaching experience. It is designed to advertise their skills while also giving information on the actual classes themselves which is included on the Home page. The classes page gives the details on the time and dates of the classes. There is a gallery page displaying the teachers work. It also includes a form page where the user can sign up to be contacted about the classes. <br>
 As this is a website for an artist it is designed to be aesthetically pleasing with many pictures and a cohesive colour scheme. 
 
+Click the link to be directed to the live website: https://griffinsar.github.io/Caladonia-Crochet-P1/
+
 ![responsive](assets/images/read.me/responsive.png)
 
 # Target Audience
@@ -300,6 +302,7 @@ I used the below sites to help me design and style my site.
 - The project's wireframes were designed in Balsamiq.
 - The project's logo was designed using Adobe Express.
 - Some of the  images were resized using microsoft paint.
+- Checked indentation of HTML with FreeFormatter.com
 
 
 # Acknowledgements

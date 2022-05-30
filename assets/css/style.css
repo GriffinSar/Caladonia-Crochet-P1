@@ -251,7 +251,7 @@ li a:hover {
 }
 
 .woman-image {
-    background-image: url(/assets/images/woman\ crochet.jpg);
+    background-image: url(/assets/images/woman-crochet.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -357,6 +357,10 @@ textarea {
 
     .learn {
         font-size: large;
+    }
+
+    .maintext {
+        width:80%;
     }
 
     .form-section {

@@ -158,11 +158,11 @@ I have added drop shadows to the images to give a sense of depth to the page and
 
 ## Manual Testing
 
-![Test1](assets/images/testing/test1.png)
-![Test2](assets/images/testing/test%202.png)
-![Test3](assets/images/testing/tests%203.png)
-![Test4](assets/images/testing/test4.png)
-![Test5](assets/images/testing/test5.png)
+![Responsive](assets/images/testing/responsive-test.png)
+![Nav&Footer](assets/images/testing/navfoot-test.png)
+![Classes&Gallery](assets/images/testing/classgall-test.png)
+![Contact](assets/images/testing/contact-test.png)
+
 
 
 ## Issues and Resolutions found during testing
